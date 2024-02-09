@@ -6,15 +6,15 @@
   "language": "en",
   "notification": true,
   "approval": false,
-  "BOTNAME": "NAYAN-BOT",
-  "PREFIX": "/",
+  "BOTNAME": "NAZI-BOT",
+  "PREFIX": ".",
   "OPERATOR": [
-    "100014896964436",
-    "100000959749712"
+    "100080335813912",
+    ""
   ],
   "ADMINBOT": [
-    "100014896964436",
-    "100000959749712"
+    "100080335813912",
+    ""
   ],
   "OWNER": ["100000959749712"], 
   "APPROVED": [],
