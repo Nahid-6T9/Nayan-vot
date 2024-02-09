@@ -1,1 +1,92 @@
-
+[
+    {
+        "key": "datr",
+        "value": "wC0wZTe_ebqno07KDmOX5RNm",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2024-02-09T09:18:20.815Z",
+        "lastAccessed": "2024-02-09T09:18:20.820Z"
+    },
+    {
+        "key": "sb",
+        "value": "wC0wZTFM_oFJBXKRm7IzOPtG",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2024-02-09T09:18:20.820Z",
+        "lastAccessed": "2024-02-09T09:18:20.820Z"
+    },
+    {
+        "key": "vpd",
+        "value": "v1%3B589x295x2.4379358291625977",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2024-02-09T09:18:20.820Z",
+        "lastAccessed": "2024-02-09T09:18:20.820Z"
+    },
+    {
+        "key": "wl_cbv",
+        "value": "v2%3Bclient_version%3A2388%3Btimestamp%3A1704275466",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2024-02-09T09:18:20.820Z",
+        "lastAccessed": "2024-02-09T09:18:20.820Z"
+    },
+    {
+        "key": "c_user",
+        "value": "61553350627686",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2024-02-09T09:18:20.820Z",
+        "lastAccessed": "2024-02-09T09:18:20.820Z"
+    },
+    {
+        "key": "xs",
+        "value": "7%3AexHcShvtlC9fOQ%3A2%3A1707414885%3A-1%3A15776",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2024-02-09T09:18:20.820Z",
+        "lastAccessed": "2024-02-09T09:18:20.820Z"
+    },
+    {
+        "key": "fr",
+        "value": "0MSShTJF1txN7FfPl.AWXfd9Lu0J2joSnuakr3F0CyD1c.BlMC3A..AAA.0.0.BlxRVk.AWWMdil2zBM",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2024-02-09T09:18:20.820Z",
+        "lastAccessed": "2024-02-09T09:18:20.820Z"
+    },
+    {
+        "key": "m_page_voice",
+        "value": "61553350627686",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2024-02-09T09:18:20.820Z",
+        "lastAccessed": "2024-02-09T09:18:20.820Z"
+    },
+    {
+        "key": "ps_n",
+        "value": "0",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2024-02-09T09:18:20.820Z",
+        "lastAccessed": "2024-02-09T09:18:20.820Z"
+    },
+    {
+        "key": "ps_l",
+        "value": "0",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2024-02-09T09:18:20.820Z",
+        "lastAccessed": "2024-02-09T09:18:20.820Z"
+    }
+      ]
